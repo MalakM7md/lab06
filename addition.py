@@ -1,3 +1,3 @@
-class add:
-  def add(a, b):
-    return a+b
+class Add:
+    def add(self, a, b):
+        return a + b
